@@ -11,7 +11,6 @@
   <img align="center" alt="Fabio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fabio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fabio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Fabio-EclipseIDE" height="30" width="40" src=https://skillicons.dev/icons?i=all
   <img align="right" alt="a" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fdog-jam-dog-dog-play-instrument-instrument-funny-dog-meme-gif-25861767&psig=AOvVaw2HUz1GMZ14Wu3cKAHNx2Cf&ust=1751460667602000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCBhcjZm44DFQAAAAAdAAAAABAW"
 </div>
 
