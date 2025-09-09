@@ -1,4 +1,4 @@
-## Manda salve godenot
+## Developer
 
 <div>
   <a href="https://github.com/fabiorian">
